@@ -16,4 +16,5 @@ APIExternalProducer.js
 .*/APIExternalProducer.js
 /mta_archives/
 *.json
+temp.txt
 
